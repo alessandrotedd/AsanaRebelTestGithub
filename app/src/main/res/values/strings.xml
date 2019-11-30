@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Asana Rebel Test - Github</string>
+    <string name="search_hint">Search</string>
+    <string name="number_of_forks">Number of forks</string>
+    <string name="forkNumberExample">123</string>
+    <string name="description_example">Description example</string>
+    <string name="description_title">Description:</string>
+    <string name="action_search">Search repositories</string>
+    <string name="noConnectionErrorMessage">Connection error: check your network connection and try again</string>
+    <string name="retry">Retry</string>
+    <string name="null_repository_id">Error: invalid repository ID</string>
+    <string name="number_of_subscribers_format">Number of subscribers: %d</string>
+    <string name="user_icon">User icon</string>
+    <string name="no_repositories_found">No repositories found</string>
+</resources>
